@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should check the matches and user 1`] = `
+Object {
+  "createdAt": Any<Date>,
+  "name": "Andrew Ananda",
+}
+`;
+
+exports[`should check the matches user password 1`] = `
+Object {
+  "password": "1234",
+}
+`;
